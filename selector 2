@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      div{ background-color: rgb(18, 122, 122);
+           }
+      p{
+        background-color: darkgoldenrod;
+        padding: 10px;
+      }
+      p,div{
+        color: white;
+      }
+      h1{
+        text-align: center;
+        color: teal;
+      }
+    </style>
+
+  </head>
+  <body>
+    <h1>Week plan</h1>
+    <div>
+Monday: Begin required readings and multimedia.
+<p>Tuesday: Continue reviewing materials.</p>
+Wednesday: Post to the discussion forum and begin assignments.
+<p>Thursday: Continue posting and working on assignments.</p>
+Friday: Read and respond to posts and work on assignments.
+<p>Saturday: Read and respond to posts and finish assignments.</p>
+Sunday: Check your work and submit assignments.
+</div>
+  </body>
+</html>
